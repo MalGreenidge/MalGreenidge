@@ -1,6 +1,6 @@
-# Web developer 👨🏾‍💻, Fitness Enthusiast 🏋🏾‍♂️, Occasional Superhero 🦸🏾‍♂️
-
-## 👋 Hey there! I'm Jamal, a web developer who's always tinkering with code and experimenting with new technologies.
+<h1 align="center">Hi 👋, I'm Jamal</h1>
+<h2 align="center">Web developer 👨🏾‍💻, Fitness Enthusiast 🏋🏾‍♂️, Occasional Superhero 🦸🏾‍♂️</h2>
+<h3 align="center">A Web Developer from New York City who's always tinkering with code and experimenting with new technologies.</h3>
 
 - 🚀 My passion for building great websites and web apps has led me to work with a variety of clients, from small startups to large enterprises. I love the challenge of bringing their visions to life and delivering exceptional user experiences.
 
@@ -12,10 +12,6 @@
 
 
 - 📫 How to reach me @ jamalgreenidge@gmail.com
-
-
-<h1 align="center">Hi 👋, I'm Jamal</h1>
-<h3 align="center">A Web Developer from New York City who's always tinkering with code and experimenting with new technologies.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malgreenidge" alt="malgreenidge" /></a> </p>
 
