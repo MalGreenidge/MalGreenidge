@@ -10,7 +10,7 @@
 
 - 🎸 Fun fact: When I'm not coding, I'm usually staying active in the gym 🏋🏾‍♂️ or creating new dishes 🍛, I should start a cooking channel one day. Life's all about balance, right? 😉
 
-- 📫 How to reach me @ jamalgreenidge@gmail.com
+- 📫 How to reach me: jamalgreenidge@gmail.com
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malgreenidge&show_icons=true&locale=en&layout=compact" alt="malgreenidge" /></p>
 
