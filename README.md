@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jamal</h1>
+<h1 align="center">Hi 👋🏾, I'm Jamal</h1>
 <h2 align="center">Web developer 👨🏾‍💻, Fitness Enthusiast 🏋🏾‍♂️, Occasional Superhero 🦸🏾‍♂️</h2>
 <h3 align="center">A Web Developer from New York City who's always tinkering with code and experimenting with new technologies.</h3>
 
